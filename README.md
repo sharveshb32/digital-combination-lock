@@ -1,4 +1,4 @@
-doc_content = """# Sequential Digital Combination Lock (FSM & Datapath)
+# Sequential Digital Combination Lock (FSM & Datapath)
 
 A synthesizable Verilog implementation of a **Sequential Digital Electronic Combination Lock** utilizing a partitioned **Datapath + Finite State Machine (FSM) Control Path** architecture.
 
