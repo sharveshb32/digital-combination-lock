@@ -12,11 +12,6 @@ A synthesizable Verilog implementation of a **Sequential Digital Electronic Comb
   - [Top-Level Testbench (`lock_tb.v`)](#top-level-testbench-lock_tbv)
 - State Transitions & Key Sequence
 - FSM State Diagram
-- Simulation & Verification
-- Verilog Source Reference
-- How to Run Simulation
-
----
 
 ## 📖 Overview
 
