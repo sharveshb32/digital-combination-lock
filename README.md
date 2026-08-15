@@ -5,16 +5,16 @@ A synthesizable Verilog implementation of a **Sequential Digital Electronic Comb
 ---
 
 ## 📌 Table of Contents
-- [Overview](#overview)
-- [Architecture & Design](#architecture--design)
+- Overview
+- Architecture & Design
   - [Datapath (`data_path.v`)](#datapath-data_pathv)
   - [Control Path (`control_path.v`)](#control-path-control_pathv)
   - [Top-Level Testbench (`lock_tb.v`)](#top-level-testbench-lock_tbv)
-- [State Transitions & Key Sequence](#state-transitions--key-sequence)
-- [FSM State Diagram](#fsm-state-diagram)
-- [Simulation & Verification](#simulation--verification)
-- [Verilog Source Reference](#verilog-source-reference)
-- [How to Run Simulation](#how-to-run-simulation)
+- State Transitions & Key Sequence
+- FSM State Diagram
+- Simulation & Verification
+- Verilog Source Reference
+- How to Run Simulation
 
 ---
 
